@@ -1,0 +1,15 @@
+c:\Users\rodri\OneDrive\Área de Trabalho\dio\trilha-new-tdd-desafio\NewTalents\bin\Debug\net6.0\NewTalents.exe
+c:\Users\rodri\OneDrive\Área de Trabalho\dio\trilha-new-tdd-desafio\NewTalents\bin\Debug\net6.0\NewTalents.deps.json
+c:\Users\rodri\OneDrive\Área de Trabalho\dio\trilha-new-tdd-desafio\NewTalents\bin\Debug\net6.0\NewTalents.runtimeconfig.json
+c:\Users\rodri\OneDrive\Área de Trabalho\dio\trilha-new-tdd-desafio\NewTalents\bin\Debug\net6.0\NewTalents.dll
+c:\Users\rodri\OneDrive\Área de Trabalho\dio\trilha-new-tdd-desafio\NewTalents\bin\Debug\net6.0\NewTalents.pdb
+c:\Users\rodri\OneDrive\Área de Trabalho\dio\trilha-new-tdd-desafio\NewTalents\obj\Debug\net6.0\NewTalents.csproj.AssemblyReference.cache
+c:\Users\rodri\OneDrive\Área de Trabalho\dio\trilha-new-tdd-desafio\NewTalents\obj\Debug\net6.0\NewTalents.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\rodri\OneDrive\Área de Trabalho\dio\trilha-new-tdd-desafio\NewTalents\obj\Debug\net6.0\NewTalents.AssemblyInfoInputs.cache
+c:\Users\rodri\OneDrive\Área de Trabalho\dio\trilha-new-tdd-desafio\NewTalents\obj\Debug\net6.0\NewTalents.AssemblyInfo.cs
+c:\Users\rodri\OneDrive\Área de Trabalho\dio\trilha-new-tdd-desafio\NewTalents\obj\Debug\net6.0\NewTalents.csproj.CoreCompileInputs.cache
+c:\Users\rodri\OneDrive\Área de Trabalho\dio\trilha-new-tdd-desafio\NewTalents\obj\Debug\net6.0\NewTalents.dll
+c:\Users\rodri\OneDrive\Área de Trabalho\dio\trilha-new-tdd-desafio\NewTalents\obj\Debug\net6.0\refint\NewTalents.dll
+c:\Users\rodri\OneDrive\Área de Trabalho\dio\trilha-new-tdd-desafio\NewTalents\obj\Debug\net6.0\NewTalents.pdb
+c:\Users\rodri\OneDrive\Área de Trabalho\dio\trilha-new-tdd-desafio\NewTalents\obj\Debug\net6.0\NewTalents.genruntimeconfig.cache
+c:\Users\rodri\OneDrive\Área de Trabalho\dio\trilha-new-tdd-desafio\NewTalents\obj\Debug\net6.0\ref\NewTalents.dll
